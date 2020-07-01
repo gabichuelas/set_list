@@ -216,9 +216,50 @@
           null
         ]
       },
-      "/Users/gabymendez/turing/2module/set_list/app/models/song.rb": {
+      "/Users/gabymendez/turing/2module/set_list/spec/features/songs/user_can_see_all_songs_spec.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/gabymendez/turing/2module/set_list/spec/models/artist_spec.rb": {
         "lines": [
           1,
+          1,
+          2,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/gabymendez/turing/2module/set_list/app/models/artist.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -226,6 +267,33 @@
         "lines": [
           1,
           1,
+          null
+        ]
+      },
+      "/Users/gabymendez/turing/2module/set_list/spec/models/song_spec.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          2,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/gabymendez/turing/2module/set_list/app/models/song.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -246,6 +314,6 @@
         ]
       }
     },
-    "timestamp": 1593527945
+    "timestamp": 1593623183
   }
 }
