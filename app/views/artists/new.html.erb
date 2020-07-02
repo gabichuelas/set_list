@@ -1,0 +1,6 @@
+<h1>Add New Artist</h1>
+<%= form_tag '/artists' do %>
+  <%= label_tag :name %><br>
+  <%= text_field_tag :name %><br>
+  <%= submit_tag 'Create Artist' %>
+<% end %>
